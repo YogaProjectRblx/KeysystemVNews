@@ -12,7 +12,7 @@ _G.Key = "AlexisXAloneoV4" -- You Put Your Key Here
 _G.KeyInput = "string"
 
 function MakeScriptHub()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YogaProjectRblx/ALONEV4ALEXIS/main/README.md"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YogaProjectRblx/aloneXAlexis/main/README.md"))();
 
 end
 
